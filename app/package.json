@@ -50,8 +50,8 @@
     "media-typer": "^0.3.0",
     "merge-descriptors": "^1.0.1",
     "methods": "^1.1.2",
-    "mime-db": "^1.52.0",
     "mime": "^1.6.0",
+    "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
     "minimatch": "^3.1.2",
     "ms": "^2.0.0",
@@ -66,8 +66,8 @@
     "raw-body": "^2.5.1",
     "safe-buffer": "^5.2.1",
     "safer-buffer": "^2.1.2",
-    "serve-static": "^1.15.0",
     "send": "^0.18.0",
+    "serve-static": "^1.15.0",
     "setprototypeof": "^1.2.0",
     "side-channel": "^1.0.4",
     "statuses": "^2.0.1",
@@ -78,7 +78,6 @@
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "nodemon ./bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -91,5 +90,4 @@
     "type": "git",
     "url": ""
   }
-
 }
